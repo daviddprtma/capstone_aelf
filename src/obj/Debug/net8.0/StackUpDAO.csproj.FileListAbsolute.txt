@@ -1,0 +1,12 @@
+D:\capstone_aelf\src\bin\Debug\net8.0\StackUpDAO.deps.json
+D:\capstone_aelf\src\bin\Debug\net8.0\StackUpDAO.dll
+D:\capstone_aelf\src\bin\Debug\net8.0\StackUpDAO.pdb
+D:\capstone_aelf\src\obj\Debug\net8.0\StackUpDAO.csproj.AssemblyReference.cache
+D:\capstone_aelf\src\obj\Debug\net8.0\StackUpDAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\capstone_aelf\src\obj\Debug\net8.0\StackUpDAO.AssemblyInfoInputs.cache
+D:\capstone_aelf\src\obj\Debug\net8.0\StackUpDAO.AssemblyInfo.cs
+D:\capstone_aelf\src\obj\Debug\net8.0\StackUpDAO.csproj.CoreCompileInputs.cache
+D:\capstone_aelf\src\obj\Debug\net8.0\StackUpDAO.dll
+D:\capstone_aelf\src\obj\Debug\net8.0\refint\StackUpDAO.dll
+D:\capstone_aelf\src\obj\Debug\net8.0\StackUpDAO.pdb
+D:\capstone_aelf\src\obj\Debug\net8.0\ref\StackUpDAO.dll
